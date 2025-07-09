@@ -26,11 +26,11 @@ Ce projet simule la gestion d’un portefeuille de trading sur le marché de l�
 ## 📦 Structure du projet
 
 ```
-energy_portfolio_simulation.py        # Script principal
+energy_portfolio_simulation.py        
 monthly_hourly_load_values_2025.csv 
 energy_trading_output/
-├── simulated_portfolio.csv          # Résultats complets
-├── pnl_var_plot.png                 # Visualisation PnL / VaR
+├── simulated_portfolio.csv          
+├── pnl_var_plot.png                 
 ```
 
 ## 📌 Résultats
