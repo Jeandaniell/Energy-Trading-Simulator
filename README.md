@@ -27,7 +27,7 @@ Ce projet simule la gestion d’un portefeuille de trading sur le marché de l�
 
 ```
 energy_portfolio_simulation.py        # Script principal
-monthly_hourly_load_values_2025.csv  # Données de charge (à placer dans le même dossier)
+monthly_hourly_load_values_2025.csv 
 energy_trading_output/
 ├── simulated_portfolio.csv          # Résultats complets
 ├── pnl_var_plot.png                 # Visualisation PnL / VaR
